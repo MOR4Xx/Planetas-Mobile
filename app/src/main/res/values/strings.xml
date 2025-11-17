@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Planetas</string>
+    <string name="transition_key">transicao_planeta_imagem</string>
+</resources>
